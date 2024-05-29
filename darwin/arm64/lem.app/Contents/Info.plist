@@ -11,7 +11,7 @@
     <key>CFBundleName</key>
     <string>Lem</string>
     <key>CFBundleIconFile</key>
-    <string>icon.png</string>
+    <string>icon-dark.icns</string>
     <key>CFBundleShortVersionString</key>
     <string>2.0</string>
     <key>CFBundleVersion</key>
